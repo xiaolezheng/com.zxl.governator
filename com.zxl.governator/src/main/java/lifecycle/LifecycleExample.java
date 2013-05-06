@@ -25,6 +25,7 @@ public class LifecycleExample
         manager.close();
 
         /*
+         * 
             The console output should show:
                 ExampleResource construction
                 ExampleResource setup
